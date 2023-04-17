@@ -2,6 +2,6 @@
 
 =>Gymrat💪🏋️‍♀️
 
-=>No me juzgen que apenas empiezo, mi mayor proyecto es hacer un "HOLA MUNDO" en: HTML-CSS Y C#:v
+=>No me juzgen que apenas empiezo, mi mayor proyecto es hacer un "HOLA MUNDO" en: HTML-CSS, C# y java:v
 
 ||Tecnico En Ingenieria De Desarrollo De Software.||
