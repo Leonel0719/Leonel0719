@@ -2,6 +2,4 @@
 
 =>Dj/Producerr🎤🎧🎚
 
-=>Gymrat💪🏋️‍♀️
-
 ||Tecnico En Ingenieria De Desarrollo De Software||--||Software Development Engineering Technician||
