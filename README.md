@@ -1,7 +1,7 @@
-=>Hola mi nombre es Leonel, programador junior en proceso.💻
+=>Hola mi nombre es Leonel, programador Junior.💻/Hello my name is Leonel, junior programmer.💻
 
-=>Dj/Productor🎤🎧🎚
+=>Dj/Producerr🎤🎧🎚
 
 =>Gymrat💪🏋️‍♀️
 
-||Tecnico En Ingenieria De Desarrollo De Software||
+||Tecnico En Ingenieria De Desarrollo De Software||--||Software Development Engineering Technician||
